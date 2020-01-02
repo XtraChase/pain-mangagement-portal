@@ -24,6 +24,6 @@ Deployed at: https://xtrachase.github.io/pain-mangagement-portal/
 
 ## What we learned
 * Group project collaboration through Github
-* Orgaizing group tasks and assigning roles
+* Organizing group tasks and assigning roles
 * API integration with wearable tech
 * Pitching the project
